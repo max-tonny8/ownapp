@@ -10,7 +10,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  color: #043873;
+  color: #04713e;
 }
 
 .footer {
@@ -30,7 +30,7 @@
 }
 
 .title a {
-  color: #0070f3;
+  color: #56f500;
   text-decoration: none;
 }
 
@@ -58,7 +58,7 @@
 }
 
 .code {
-  background: #043873;
+  background: #04712a;
   border-radius: 5px;
   padding: 0.75rem;
   font-size: 1.1rem;
@@ -89,7 +89,7 @@
 .card:hover,
 .card:focus,
 .card:active {
-  color: #0070f3;
+  color: #04f500;
   border-color: #0070f3;
 }
 
